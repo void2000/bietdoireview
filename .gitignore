@@ -1,0 +1,11 @@
+*.log
+/vendor
+/storage
+/plugins/october
+/modules/**/*
+/config
+/bootstrap
+/themes/demo
+artisan
+index.php
+.htaccess
